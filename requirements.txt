@@ -1,0 +1,10 @@
+telethon>=1.36,<2
+fastapi>=0.110
+uvicorn>=0.29
+aiosqlite>=0.20
+aiofiles>=23.2
+PyYAML>=6.0
+python-socks>=2.4
+# опционально, ускоряет расшифровку трафика Telegram (C-расширение):
+# cryptg>=0.4
+qrcode>=8.0

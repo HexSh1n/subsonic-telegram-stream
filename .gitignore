@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.session
+*.session-journal
+config.yaml
+data/
+cache/
+*.tgz
+*.tar.gz
+*.bak
+.DS_Store

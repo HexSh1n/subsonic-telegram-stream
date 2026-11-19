@@ -1,0 +1,22 @@
+telegram:
+  api_id: 123456
+  api_hash: "your_api_hash_here"
+  session: "tg-stream"
+  channels:
+    - "@your_music_channel"
+  # proxy:
+  #   type: socks5
+  #   server: 127.0.0.1
+  #   port: 1080
+
+server:
+  host: "0.0.0.0"
+  port: 8080
+
+users:
+  - username: "admin"
+    password: "change_me"
+
+cache:
+  dir: "./cache"
+  max_bytes: 10737418240
