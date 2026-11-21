@@ -4,8 +4,8 @@ __pycache__/
 *.session
 *.session-journal
 config.yaml
-data/
-cache/
+/data/
+/cache/
 *.tgz
 *.tar.gz
 *.bak
